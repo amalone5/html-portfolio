@@ -1,0 +1,19 @@
+
+h1 {
+    text-align: center;
+    background-color: #FFF7D4;
+    color: #B1C381;
+}
+body {
+    background-color: #9BB8CD;
+}
+
+#webdev {
+    text-align: center;
+    /* color: #EEC759; */
+}
+
+#fortune {
+    text-align: center;
+    background-color: #EEC759;
+}
